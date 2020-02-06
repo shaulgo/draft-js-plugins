@@ -9,7 +9,7 @@ const libCss = path.join(root, 'lib-css');
 
 child_process.execSync(
   `yarn linaria "${path.join(root, 'src/**/*.js')}" -o ${libCss}`,
-  { cwd: path.resolve('..'), stdio: 'inherit' }
+  { cwd: path.resolve(''), stdio: 'inherit' }
 );
 
 let content = '';

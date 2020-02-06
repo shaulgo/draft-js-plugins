@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3005c99-2b26-4b28-b05e-8938103c84d2" name="Default Changelist" comment="only focus plugin">
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build-css.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
+    <list default="true" id="f3005c99-2b26-4b28-b05e-8938103c84d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-css.js" beforeDir="false" afterPath="$PROJECT_DIR$/build-css.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +47,22 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.build:css">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
         <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build:css" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:css" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -73,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build:css" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.build:js" />
       </list>
@@ -88,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581008415409</updated>
-      <workItem from="1581008416591" duration="2601000" />
+      <workItem from="1581008416591" duration="2868000" />
     </task>
     <task id="LOCAL-00001" summary="fix lastSelection for the case where a focusable plugin is inserted when it's already selected">
       <created>1581008523683</created>
@@ -118,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581014016337</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="only focus plugin">
+      <created>1581014871844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581014871844</updated>
+    </task>
+    <task id="LOCAL-00006" summary="only focus plugin">
+      <created>1581014917686</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581014917686</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,32 +153,32 @@
     <option name="LAST_COMMIT_MESSAGE" value="only focus plugin" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2480" y="230" key="CommitChangelistDialog2" timestamp="1581014903119">
+    <state x="2480" y="230" key="CommitChangelistDialog2" timestamp="1581014916596">
       <screen x="1920" y="56" width="1920" height="1177" />
     </state>
     <state x="560" y="197" key="CommitChangelistDialog2/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@0.23.1920.1177" timestamp="1581008523442" />
-    <state x="2480" y="230" key="CommitChangelistDialog2/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014903119" />
-    <state width="1899" height="328" key="GridCell.Tab.0.bottom" timestamp="1581014724020">
+    <state x="2480" y="230" key="CommitChangelistDialog2/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014916596" />
+    <state width="1899" height="328" key="GridCell.Tab.0.bottom" timestamp="1581015129766">
       <screen x="1920" y="56" width="1920" height="1177" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.bottom/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014724020" />
-    <state width="1899" height="328" key="GridCell.Tab.0.center" timestamp="1581014724018">
+    <state width="1899" height="328" key="GridCell.Tab.0.bottom/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581015129766" />
+    <state width="1899" height="328" key="GridCell.Tab.0.center" timestamp="1581015129765">
       <screen x="1920" y="56" width="1920" height="1177" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.center/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014724018" />
-    <state width="1899" height="328" key="GridCell.Tab.0.left" timestamp="1581014724017">
+    <state width="1899" height="328" key="GridCell.Tab.0.center/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581015129765" />
+    <state width="1899" height="328" key="GridCell.Tab.0.left" timestamp="1581015129764">
       <screen x="1920" y="56" width="1920" height="1177" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.left/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014724017" />
-    <state width="1899" height="328" key="GridCell.Tab.0.right" timestamp="1581014724019">
+    <state width="1899" height="328" key="GridCell.Tab.0.left/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581015129764" />
+    <state width="1899" height="328" key="GridCell.Tab.0.right" timestamp="1581015129765">
       <screen x="1920" y="56" width="1920" height="1177" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.right/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014724019" />
-    <state x="2480" y="386" key="Vcs.Push.Dialog.v2" timestamp="1581014033816">
+    <state width="1899" height="328" key="GridCell.Tab.0.right/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581015129765" />
+    <state x="2480" y="386" key="Vcs.Push.Dialog.v2" timestamp="1581014921347">
       <screen x="1920" y="56" width="1920" height="1177" />
     </state>
     <state x="560" y="353" key="Vcs.Push.Dialog.v2/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@0.23.1920.1177" timestamp="1581008525076" />
-    <state x="2480" y="386" key="Vcs.Push.Dialog.v2/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014033816" />
+    <state x="2480" y="386" key="Vcs.Push.Dialog.v2/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014921347" />
     <state x="2557" y="408" width="645" height="472" key="find.popup" timestamp="1581014408850">
       <screen x="1920" y="56" width="1920" height="1177" />
     </state>
