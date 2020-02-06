@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3005c99-2b26-4b28-b05e-8938103c84d2" name="Default Changelist" comment="only focus plugin">
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fixFocusPlugin" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1XRUUTShM9bGUgA02f6va5c0dCC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build:js" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:js" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.build:js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3005c99-2b26-4b28-b05e-8938103c84d2" name="Default Changelist" comment="" />
+      <created>1581008415409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581008415409</updated>
+      <workItem from="1581008416591" duration="2601000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix lastSelection for the case where a focusable plugin is inserted when it's already selected">
+      <created>1581008523683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581008523683</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changelog">
+      <created>1581008895925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581008895925</updated>
+    </task>
+    <task id="LOCAL-00003" summary="only focus plugin">
+      <created>1581013938974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581013938974</updated>
+    </task>
+    <task id="LOCAL-00004" summary="only focus plugin">
+      <created>1581014016337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581014016337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix lastSelection for the case where a focusable plugin is inserted when it's already selected" />
+    <MESSAGE value="changelog" />
+    <MESSAGE value="only focus plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="only focus plugin" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2480" y="230" key="CommitChangelistDialog2" timestamp="1581014903119">
+      <screen x="1920" y="56" width="1920" height="1177" />
+    </state>
+    <state x="560" y="197" key="CommitChangelistDialog2/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@0.23.1920.1177" timestamp="1581008523442" />
+    <state x="2480" y="230" key="CommitChangelistDialog2/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014903119" />
+    <state width="1899" height="328" key="GridCell.Tab.0.bottom" timestamp="1581014724020">
+      <screen x="1920" y="56" width="1920" height="1177" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.0.bottom/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014724020" />
+    <state width="1899" height="328" key="GridCell.Tab.0.center" timestamp="1581014724018">
+      <screen x="1920" y="56" width="1920" height="1177" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.0.center/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014724018" />
+    <state width="1899" height="328" key="GridCell.Tab.0.left" timestamp="1581014724017">
+      <screen x="1920" y="56" width="1920" height="1177" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.0.left/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014724017" />
+    <state width="1899" height="328" key="GridCell.Tab.0.right" timestamp="1581014724019">
+      <screen x="1920" y="56" width="1920" height="1177" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.0.right/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014724019" />
+    <state x="2480" y="386" key="Vcs.Push.Dialog.v2" timestamp="1581014033816">
+      <screen x="1920" y="56" width="1920" height="1177" />
+    </state>
+    <state x="560" y="353" key="Vcs.Push.Dialog.v2/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@0.23.1920.1177" timestamp="1581008525076" />
+    <state x="2480" y="386" key="Vcs.Push.Dialog.v2/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014033816" />
+    <state x="2557" y="408" width="645" height="472" key="find.popup" timestamp="1581014408850">
+      <screen x="1920" y="56" width="1920" height="1177" />
+    </state>
+    <state x="2557" y="408" width="645" height="472" key="find.popup/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581014408850" />
+    <state x="2545" y="321" width="670" height="676" key="search.everywhere.popup" timestamp="1581009119717">
+      <screen x="1920" y="56" width="1920" height="1177" />
+    </state>
+    <state x="625" y="288" key="search.everywhere.popup/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@0.23.1920.1177" timestamp="1581008542164" />
+    <state x="2545" y="321" width="670" height="676" key="search.everywhere.popup/-1920.102.1920.1177/0.23.1920.1177/1920.56.1920.1177@1920.56.1920.1177" timestamp="1581009119717" />
+  </component>
+</project>

@@ -14,7 +14,7 @@ export default [
       exports: 'named',
     },
     external,
-    plugins: [nodeResolve(), babel({ rootMode: 'upward' })],
+    plugins: [nodeResolve(), babel()],
   },
   {
     input,
